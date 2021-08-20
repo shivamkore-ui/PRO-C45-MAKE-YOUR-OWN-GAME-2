@@ -45,21 +45,6 @@ function preload(){
   enemyDies = loadAnimation("images/freedinosprite/png/Dead (1).png","images/freedinosprite/png/Dead (2).png",
   "images/freedinosprite/png/Dead (3).png","images/freedinosprite/png/Dead (4).png","images/freedinosprite/png/Dead (5).png",
   "images/freedinosprite/png/Dead (6).png","images/freedinosprite/png/Dead (7).png","images/freedinosprite/png/Dead (8).png")
-
-  zombieRuns = loadAnimation("images/zombiefiles/png/male/Walk (1).png","images/zombiefiles/png/male/Walk (2).png",
-  "images/zombiefiles/png/male/Walk (3).png","images/zombiefiles/png/male/Walk (4).png","images/zombiefiles/png/male/Walk (5).png",
-  "images/zombiefiles/png/male/Walk (6).png","images/zombiefiles/png/male/Walk (7).png","images/zombiefiles/png/male/Walk (8).png",
-  "images/zombiefiles/png/male/Walk (9).png","images/zombiefiles/png/male/Walk (10).png")
-  
-  zombieAttacks = loadAnimation("images/zombiefiles/png/male/Attack (1).png","images/zombiefiles/png/male/Attack (2).png",
-  "images/zombiefiles/png/male/Attack (3).png","images/zombiefiles/png/male/Attack (4).png","images/zombiefiles/png/male/Attack (5).png",
-  "images/zombiefiles/png/male/Attack (6).png","images/zombiefiles/png/male/Attack (7).png","images/zombiefiles/png/male/Attack (8).png")
-  
-  zombieDies = loadAnimation("images/zombiefiles/png/male/Walk (1).png","images/zombiefiles/png/male/Walk (2).png",
-  "images/zombiefiles/png/male/Walk (3).png","images/zombiefiles/png/male/Walk (4).png","images/zombiefiles/png/male/Walk (5).png",
-  "images/zombiefiles/png/male/Walk (6).png","images/zombiefiles/png/male/Walk (7).png","images/zombiefiles/png/male/Walk (8).png",
-  "images/zombiefiles/png/male/Walk (9).png","images/zombiefiles/png/male/Walk (10).png","images/zombiefiles/png/male/Walk (11).png",
-  "images/zombiefiles/png/male/Walk (12).png")
   
 
   platform1Img = loadImage("images/platform/platform1.png")
